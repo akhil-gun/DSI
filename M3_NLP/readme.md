@@ -18,7 +18,8 @@ media circumstances such as on Twitter and Facebook. In the future this could be
 content and witty sentences. 
 
 # **Datasets:**
-
+The data used for the project was taken from kaggle. There were two JSON files ecah containg the 'is_sarcatic' and headlines columns. The two files were joined to create a bigger data for the analysis. The complete date has 50,000 training examples with the data not significantly imbalanced.
+The data can be found here https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection
 
 # **Team members:**
 Nmeso, Mekondjo, Lali, Akhil
